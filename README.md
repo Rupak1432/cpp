@@ -7,12 +7,14 @@ C++ from the scratch
 ---
 
 ## Rules:
+-
 
 ## Best Practices:
 - Name your code files name.cpp, where name is a name of your choosing, and .cpp is the 
 extension that indicates the file is a C++ source file.
 
 ## Warnings:
+-
 
 ---
 
