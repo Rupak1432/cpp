@@ -1,4 +1,4 @@
-### Teaching myself C++
+# Teaching myself C++
 
 C++ from the scratch
 
@@ -15,10 +15,8 @@ C++ from the scratch
 
 ---
 
-# What is C++ good at?
-    C++ excels in situations where high performance and precise control over memory and 
-    other resources is needed. Here are a few common types of applications that most likely 
-    would be written in C++:
+### What is C++ good at?
+    C++ excels in situations where high performance and precise control over memory and other resources is needed. Here are a few common types of applications that most likely would be written in C++:
     - Video games
     - Real-time systems (e.g. for transportation, manufacturing, etc…)
     - High-performance financial applications (e.g. high frequency trading)
@@ -27,6 +25,6 @@ C++ from the scratch
     - Embedded software
     - Audio and video processing
 
-# Developing C++ programs: Simplistic approach
+### Developing C++ programs: Simplistic approach
 
 ![image](https://github.com/Rupak1432/cpp/blob/master/Images/Development.png)
