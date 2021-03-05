@@ -16,9 +16,7 @@ C++ from the scratch
 ---
 
 # What is C++ good at?
-    C++ excels in situations where high performance and precise control over memory and 
-    other resources is needed. Here are a few common types of applications that most likely 
-    would be written in C++:
+    C++ excels in situations where high performance and precise control over memory and other resources is needed. Here are a few common types of applications that most likely would be written in C++:
     - Video games
     - Real-time systems (e.g. for transportation, manufacturing, etc…)
     - High-performance financial applications (e.g. high frequency trading)
