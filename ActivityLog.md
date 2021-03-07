@@ -7,8 +7,11 @@
     1. Open Command Pallete > C/C++: Edit configurations(UI)
     2. Change C++ standard.
 - wrote 'compilerTestForCpp17.cpp' to ensure C++17/C++20 standard can be used.
-     - 'g++ -std=c++17 -o foo foo.cpp'
-     - 'g++ -std=c++17 -o foo foo.cpp'
+     - `g++ -std=c++17 -o foo foo.cpp`
+     - `g++ -std=c++17 -o foo foo.cpp`
 
 ### March 7 2021
+- Read subsection 1.1: Statements and structure of a program and made notes.
+
+### March 8 2021
 - 
