@@ -35,7 +35,7 @@ int main()
 - Line 6 is a return statement. When an executable program finishes running, the program sends a value back to the operating system in order to indicate whether it ran successfully or not. This particular return statement returns the value of 0 to the operating system, which means “everything went okay!”.
 
 ### Syntax and syntax errors:
-- rules about how your programs must be constructed in order to be considered valid is called **syntax**.
+- Rules about how your programs must be constructed in order to be considered valid is called **syntax**.
 - When you compile your program, the compiler is responsible for making sure your program follows the basic syntax of the C++ language. If you violate a rule, the compiler will complain when you try to compile your program, and issue you a **syntax error**.
 
 
