@@ -11,7 +11,16 @@
      - `g++ -std=c++17 -o foo foo.cpp`
 
 ### March 7 2021
-- Read subsection 1.1: Statements and structure of a program and made notes.
+- Read subsection 1.1: Statements and structure of a program and made 
+notes.
 
 ### March 8 2021
+- Read subsection 1.1: Statements and structure of a program and made 
+notes.
+
+### March 9 2021
+- Read subsection 1.2: Comments and made notes.
+
+### March 10 2021
 - 
+
